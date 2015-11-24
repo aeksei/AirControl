@@ -87,7 +87,7 @@ Serial.println(command);
         }    
      
      
-     }// конец if (Serial.read()=='Y')
+     }// конец if (Serial.read()=='0')
    } // конец чтение порта 
    
    
